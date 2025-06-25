@@ -1,3 +1,5 @@
+import viteLogo from '/vite.svg'
+<img src={viteLogo} className="logo" />
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Database, FileText, BookOpen, BarChart3, Mail, Github, Linkedin, Facebook, Download, Share2, Menu, X, TrendingUp, Users, Briefcase, ArrowRight } from 'lucide-react';
 
